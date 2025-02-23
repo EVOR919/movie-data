@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "title": "Big Buck Bunny",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "image": "https://example.com/images/big_buck_bunny.jpg"
+    },
+    {
+      "title": "Elephants Dream",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "image": "https://example.com/images/elephants_dream.jpg"
+    }
+  ],
+  "tv_shows": [
+    {
+      "title": "Sample Episode",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "image": "https://example.com/images/sample_episode.jpg"
+    }
+  ],
+  "channels": [
+    {
+      "title": "Live Channel 1",
+      "url": "https://example.com/live/channel1.m3u8",
+      "image": "https://example.com/images/channel1.jpg"
+    }
+  ]
+}
