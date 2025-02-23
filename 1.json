@@ -1,7 +1,7 @@
 {
   "movies": [
     {
-      "title": "Big Buck Bunny",
+      "title": "الحوت الازرق",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "image": "https://example.com/images/big_buck_bunny.jpg"
     },
